@@ -1,0 +1,32 @@
+File Created
+Laporan Dibuat: 30/05/2024 || 00:24
+Laporan Terakhir: 30/05/2024 || 00:29
+=============================================
+Nama Pelapor: A
+Barang yang Hilang: A
+Alamat Pelapor: A
+=============================================
+Nama Pelapor: A
+Barang yang Hilang: A
+Alamat Pelapor: A
+=============================================
+Nama Pelapor: A
+Barang yang Hilang: A
+Alamat Pelapor: A
+=============================================
+Nama Pelapor: A
+Barang yang Hilang: A
+Alamat Pelapor: A
+=============================================
+Nama Pelapor: A
+Barang yang Hilang: A
+Alamat Pelapor: A
+=============================================
+Nama Pelapor: B
+Barang yang Hilang: B
+Alamat Pelapor: B
+=============================================
+Nama Pelapor: C
+Barang yang Hilang: C
+Alamat Pelapor: C
+=============================================
