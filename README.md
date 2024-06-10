@@ -1,9 +1,4 @@
 # Proyek Akhir Laboratorium Algoritma dan Pemrograman
-Nama Anggota:
-* Rafi Fauzan Tsany Lubis - 231401120
-* Muhammad Asyraf Rizki - 231401105
-* Jonrio Ebenezer Siahaan - 231401132
-
 # Hasil Program
 ![Awal Input](https://github.com/LarrYdaSnaiL/AP6-ProyekAkhir/assets/82787728/e56a6b68-4f2b-4c0e-8c2f-cdd0c2505724)
 ![Setelah Input](https://github.com/LarrYdaSnaiL/AP6-ProyekAkhir/assets/82787728/b0b37de8-cdbb-461b-a644-14681d12c920)
